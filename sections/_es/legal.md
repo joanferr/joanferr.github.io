@@ -3,10 +3,10 @@ layout: section
 menu: false
 title: index
 ---
-Este sitio web y sus contenidos están protegidos por la legislación en materia de derechos de autor. Joan Ferrarons i Llagostera es su titular y se reserva todos los derechos que la ley permite.
+La legislación en materia de propiedad intelectual y derechos de autor protege este sitio web y sus contenidos. Joan Ferrarons i Llagostera es su titular y se reserva todos los derechos que la ley permita. El titular rechaza explícitamente que los contenidos de la web se utilicen para la minería de textos y datos o para entrenar <i>software</i> de inteligencia artificial.
 
-La tipografía utilizada en este sitio es DejaVu Sans y se distribuye bajo licencia libre.
+Los contenidos de la web se ofrecen de buena fe y con la única finalidad de informar al público. La web puede contener imprecisiones o errores, respecto a los cuales el titular excluye explícitamente cualquier tipo de responsabilidad en la medida en que la ley lo permita.
 
-Los contenidos de este sitio web se ofrecen con el fin exclusivo de informar al público. En la medida que la ley lo permita, el titular excluye explícitamente cualquier tipo de responsabilidad respecto a las inexactitudes o errores que pueda contener el sitio.
+Esta web contiene además enlaces a otras webs. Estos enlaces solo se proporcionan para facilitar el acceso del público a contenidos de terceros. Dado que el titular no tiene ningún control sobre esos contenidos, no asume ningún tipo de responsabilidad sobre ellos.
 
-En este sitio web figuran enlaces a otras páginas. Dichos enlaces solo se ofrecen para facilitar el acceso a contenidos de terceros. Dado que el titular no ejerce control ninguno sobre dichos contenidos, no asume por ellos ningún tipo de responsabilidad.
+La tipografía utilizada en esta web, distribuida bajo licencia libre, es DejaVu Sans.
