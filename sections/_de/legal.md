@@ -3,10 +3,10 @@ layout: section
 menu: false
 title: index
 ---
-Diese Webseite und ihre Inhalte sind urheberrechtlich geschützt. Joan Ferrarons i Llagostera behält sich als Webseitebetreiber alle Rechte.
+Diese Website und ihr Inhalt sind urheberrechtlich geschützt. Joan Ferrarons i Llagostera ist ihr Urheber und behält sich alle gesetzlich zulässigen Rechte vor. Der Urheber lehnt ausdrücklich die Nutzung des Inhalts der Website für Text- und Data-Mining oder für das Training von Künstlicher-Intelligenz-Software ab.
 
-Die für diese Webseite verwandte Schrift ist DejaVu Sans, welche unter freier Lizenz vertrieben wird.
+Der Inhalt der Website wird nach bestem Wissen und Gewissen und ausschließlich zum Zweck der Information der Öffentlichkeit angeboten. Die Website kann Ungenauigkeiten oder Fehler enthalten, für die der Urheber ausdrücklich jede Haftung ausschließt, soweit dies gesetzlich zulässig ist.
 
-Die Inhalte dieser Webseite stehen lediglich zu allgemeinen Auskunftszwecken. Sie kann Ungenauigkeiten oder Fehler beinhalten, und der Webseiteinhaber schließt ausdrücklich jegliche Haftung für solche Ungenauigkeiten oder Fehler im gesetzlich höchsten zulässigen Umfang aus.
+Diese Website enthält auch Links zu anderen Websites. Diese Links werden nur zur Verfügung gestellt, um der Öffentlichkeit den Zugang zu Inhalten Dritter zu erleichtern. Da der Urheber keine Kontrolle über diese Inhalte hat, übernimmt er keine Verantwortung für diese.
 
-Auf dieser Webseite sind Linke zu anderen Webseiten zu finden. Diese Linke werden ausschließlich gestellt, damit das Publikum einen einfachen Zugreif auf Inhalte dritter hat. Da der Webseiteinhaber keine Kontrolle über solche Inhalte hat, haftet er für sie nicht.
+Die auf dieser Website verwendete Schriftart ist DejaVu Sans und wird unter freier Lizenz vertrieben.
