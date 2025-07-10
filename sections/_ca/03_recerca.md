@@ -1,7 +1,7 @@
 ---
 layout: section
 title: Recerca
-picture: /images/rokhman00.jpg
+picture: /images/nomspropis00.jpg
 menu: true
 ---
 
