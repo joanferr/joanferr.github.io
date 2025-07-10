@@ -1,7 +1,7 @@
 ---
 layout: section
 title: Contacte
-picture: /images/foto_joan.jpg
+picture: /images/filmo00.jpg
 menu: true
 ---
 
