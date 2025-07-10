@@ -1,6 +1,6 @@
 ---
 layout: section
-title: Experiència
+title: Traducció
 picture: /images/orosio00.png
 menu: true
 ---
