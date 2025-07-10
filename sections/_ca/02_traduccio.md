@@ -1,7 +1,7 @@
 ---
 layout: section
 title: Traducció
-picture: /images/orosio00.png
+picture: /images/minima00.png
 menu: true
 ---
 
