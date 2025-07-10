@@ -1,7 +1,7 @@
 ---
 layout: section
 title: Docència
-picture: 
+picture: /images/facultat00.jpg
 menu: true
 ---
 
