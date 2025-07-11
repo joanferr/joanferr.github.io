@@ -5,7 +5,7 @@ picture: /images/minima00.jpg
 menu: true
 ---
 
-Durant més de quinze anys m’he dedicat a la traducció editorial, especialitzant-me en el camp de la literatura i les humanitats. Alguns dels escriptors que he anostrat són Hermann Hesse, Patrick Süskind, Siegfried Lenz, Bertha von Suttner, Hugo von Hofmannsthal, Norman Davies, W. G. Sebald, Lutz Seiler o Kim de l’Horizon. En l’àmbit de la filosofia he traduït obres d’autors com Friedrich Nietzsche, Theodor W. Adorno, Byung-Chul Han, Günther Anders o Frédéric Gros.
+Durant més de quinze anys m’he dedicat a la traducció editorial, especialitzant-me en el camp de la literatura i les humanitats. Alguns dels escriptors que he anostrat són Hermann Hesse, Patrick Süskind, Siegfried Lenz, Bertha von Suttner, Hugo von Hofmannsthal, Norman Davies, W.&nbsp;G.&nbsp;Sebald, Lutz Seiler o Kim de l’Horizon. En l’àmbit de la filosofia he traduït obres d’autors com Friedrich Nietzsche, Theodor W.&nbsp;Adorno, Byung-Chul Han, Günther Anders o Frédéric Gros.
 
 Un dels autors més destacats que he dut al català és sens dubte Franz Kafka, de qui he traduït [_Carta al pare_](https://lafinestralectora.cat/carta-al-pare/), el recull de relats [_Paràboles i paradoxes_](https://www.editorialflaneur.cat/ca/llibre/paraboles-i-paradoxes/) i [_El castell_](https://clubeditor.cat/llibres/el-castell/), que el 2020 va merèixer el V Premi de Traducció Montserrat Franquesa. L’any 2024 es va publicar la meva versió d’[_A passes cegues per la terra_](https://clubeditor.cat/llibres/a-passes-cegues-per-la-terra/) de Leib Ròkhman, la primera novel·la traduïda directament de l’ídix al català.
 
