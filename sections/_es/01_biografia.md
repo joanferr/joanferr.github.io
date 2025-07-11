@@ -4,10 +4,10 @@ title: Biografía
 picture: /images/nietzsche00.png
 menu: true
 ---
-Soy doctor en traducción y estudios interculturales por la Universidad Autónoma de Barcelona y magíster en filosofía por la Universidad de Barcelona. También he estudiado en la Universidad Humboldt de Berlín, la Universidad de Leipzig y la Escuela Superior de Estudios Judaicos de Berlín.
+Soy licenciado en traducción e interpretación por la Universidad Autónoma de Barcelona, ​​magíster en ciencias cognitivas y lenguaje por la Universidad de Barcelona y doctor en traducción y estudios interculturales por la UAB.
 
-He trabajado en el Parlamento Europeo, el Ayuntamiento de Barcelona, para el Gran Teatro del Liceo y el Teatro Real de Madrid, pero ante todo me he desempeñado como profesional autónomo.
+He trabajado en el Ayuntamiento de Barcelona y en el Parlamento Europeo, así como para el Gran Teatro del Liceo de Barcelona y el Teatro Real de Madrid, pero sobre todo me he desempeñado como traductor editorial, especializándome en el ámbito de la literatura y las humanidades. En 2012 el Gobierno de Cataluña me acreditó como traductor jurado, profesión que ejercí hasta el año 2025.
 
-Entre los libros que he traducido destacaría <i>Reinos desaparecidos</i> de Norman Davies, <i>Idilio con perro ahogándose</i> de Michael Köhlmeier y <i>El castell</i> de Franz Kafka, merecedor el V Premio PEN Catalán de Traducción.
+He vivido largas temporadas en el extranjero, sobre todo en Leipzig, donde estudié griego moderno y ciencias de la cultura, y en Berlín, donde me inicié en el estudio de la lengua y la literatura yidis, en los que profundicé en Londres y París. También realicé largas estadías en Atenas, Luxemburgo y Valparaíso.
 
-Actualmente, trabajo como profesor asociado en la Facultad de Traducción e Interpretación de la UAB y colaboro con los Servicios Editoriales del Ayuntamiento de Barcelona.
+Actualmente, me dedico a la docencia universitaria y a la investigación en el campo de la traductología y los estudios interculturales. Soy profesor asociado en la Facultad de Traducción e Interpretación de la UAB, donde imparto asignaturas de traducción alemán-catalán y alemán-castellano, tanto general como especializada. También formo parte del PEN Catalán y soy miembro de su Comité de Derechos Lingüísticos.
