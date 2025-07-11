@@ -5,7 +5,7 @@ picture: /images/minima00.jpg
 menu: true
 ---
 
-Me he dedicado a la traducción editorial durante más de quince años, especializándome en el campo de la literatura y las humanidades. Algunos de los escritores que he traducido son Hermann Hesse, Patrick Süskind, Siegfried Lenz, Bertha von Suttner, Hugo von Hofmannsthal, Norman Davies, W. G. Sebald, Lutz Seiler o Kim de l’Horizon. En el ámbito de la filosofía he trasladado obras de autores como Friedrich Nietzsche, Theodor W. Adorno, Byung-Chul Han, Günther Anders o Frédéric Gros.
+Me he dedicado a la traducción editorial durante más de quince años, especializándome en el campo de la literatura y las humanidades. Algunos de los escritores que he traducido son Hermann Hesse, Patrick Süskind, Siegfried Lenz, Bertha von Suttner, Hugo von Hofmannsthal, Norman Davies, W.&nbspG.&nbspSebald, Lutz Seiler o Kim de l’Horizon. En el ámbito de la filosofía he trasladado obras de autores como Friedrich Nietzsche, Theodor W. Adorno, Byung-Chul Han, Günther Anders o Frédéric Gros.
 
 Uno de los autores más destacados que he vertido al catalán es sin duda Franz Kafka, de quien he traducido [_Carta al pare_](https://lafinestralectora.cat/carta-al-pare/), el volumen de relatos [_Paràboles i paradoxes_](https://www.editorialflaneur.cat/ca/llibre/paraboles-i-paradoxes/) y [_El castell_](https://clubeditor.cat/llibres/el-castell/), que en 2020 mereció el V Premio de Traducción Montserrat Franquesa. También he tenido el honor de verter directamente al catalán, por primera vez, una novela yidis, [_A passes cegues per la terra_](https://clubeditor.cat/llibres/a-passes-cegues-per-la-terra/) de Leib Rojman, publicada en 2024.
 
