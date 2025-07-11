@@ -5,9 +5,7 @@ picture: /images/nomspropis00.jpg
 menu: true
 ---
 
-L’any 2022 vaig concloure un doctorat en traducció i estudis interculturals a la UAB amb una tesi titulada [«La traducció de literatura ídix moderna: la judeïtat ídix i el trasllat d’endònims»](https://ddd.uab.cat/record/265843), que va rebre la qualificació _cum laude_. El tema del meu treball era la representació de la identitat cultural asquenazita en la traducció de literatura ídix moderna i se centrava en el traslalt de noms propis en un context de minorització lingüística.
-
-L’any 2024 la meva tesi va merèixer el Premi Jesús Tuson de la Xarxa Vives, un guardó que distingeix treballs que versen sobre diversitat lingüística. Aquell mateix any, fruit de la meva recerca doctoral, va aparèixer el llibre [_La traducció dels noms propis: una aproximació teòrica i pràctica_](https://lafinestralectora.cat/la-traduccio-dels-noms-propis/) dins la prestigiosa _Biblioteca de Traducció i Interpretació_.
+L’any 2022 vaig concloure un doctorat _cum laude_ en traducció i estudis interculturals a la UAB amb una [tesi](https://ddd.uab.cat/record/265843) sobre la representació de la identitat cultural asquenazita en la traducció de literatura ídix moderna i el traslalt de noms propis en un context de minorització lingüística. L’any 2024 la meva recerca va merèixer el Premi Jesús Tuson de la Xarxa Vives, que distingeix treballs sobre diversitat lingüística. Aquell mateix any, fruit de la meva recerca doctoral, va aparèixer el llibre [_La traducció dels noms propis: una aproximació teòrica i pràctica_](https://lafinestralectora.cat/la-traduccio-dels-noms-propis/) dins la prestigiosa _Biblioteca de Traducció i Interpretació_.
 
 Actualment, els meus interessos de recerca són la literatura alemanya contemporània i la literatura ídix moderna, la variació lingüística en la traducció literària, la interacció entre la minorització i la translació, el trasllat de noms propis, així com la traducció _queer_ i el trasllat de llenguatges no sexistes, inclusius i no-binaris.
 
