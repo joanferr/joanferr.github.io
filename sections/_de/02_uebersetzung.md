@@ -4,7 +4,7 @@ title: Übersetzung
 picture: /images/minima00.jpg
 menu: true
 ---
-Seit mehr als fünfzehn Jahren ist Joan Ferrarons als literarischer Übersetzer tätig. Zu den Schriftstellern, die er übertragen durfte, gehören Hermann Hesse, Patrick Süskind, Siegfried Lenz, Bertha von Suttner, Hugo von Hofmannsthal, Norman Davies, W.&nbsp;G.&nbsp;Sebald, Lutz Seiler und Kim de l’Horizon. Auf dem Gebiet der Philosophie übersetzte er Werke von u.&nbsp;a. Friedrich Nietzsche, Theodor W.&nbsp;Adorno, Byung-Chul Han, Günther Anders und Frédéric Gros.
+Seit mehr als fünfzehn Jahren ist Joan Ferrarons als literarischer Übersetzer tätig. Zu den Schriftstellern, die er übertragen durfte, gehören Hermann Hesse, Patrick Süskind, Siegfried Lenz, Bertha von Suttner, Hugo von Hofmannsthal, Norman Davies, W.&nbsp;G.&nbsp;Sebald, Lutz Seiler und Kim de l’Horizon. Auf dem Gebiet der Philosophie übersetzte er u.&nbsp;a. Werke von Friedrich Nietzsche, Theodor W.&nbsp;Adorno, Byung-Chul Han, Günther Anders und Frédéric Gros.
 
 Der berühmteste Schriftsteller, den er ins Katalanische brachte, ist zweifellos Franz Kafka, von dem er [_Brief an den Vater_](https://lafinestralectora.cat/carta-al-pare/), den Erzählband [_Parabeln und Paradoxe_](https://www.editorialflaneur.cat/ca/llibre/paraboles-i-paradoxes/) und [_Das Schloss_](https://clubeditor.cat/llibres/el-castell/) übersetzte, das 2020 mit dem 5.&nbsp;Montserrat-Franquesa-Übersetzungspreis ausgezeichnet wurde. 2024 wurde seine Version von Lejb Rochmans [_Mit blinde trit iber der erd_](https://clubeditor.cat/llibres/a-passes-cegues-per-la-terra/) veröffentlicht – dem ersten Roman, der direkt aus dem Jiddischen ins Katalanische übertragen wurde.
 
