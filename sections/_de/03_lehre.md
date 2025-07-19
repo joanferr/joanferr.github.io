@@ -1,6 +1,6 @@
 ---
 layout: section
-title: Leistungen
+title: Lehre
 picture: /images/facultat00.jpg
 menu: true
 ---
