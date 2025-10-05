@@ -11,4 +11,4 @@ He treballat a l’Ajuntament de Barcelona i al Parlament Europeu, així com per
 
 He viscut llargues temporades a l’estranger, sobretot a Leipzig, on vaig estudiar filologia i ciències de la cultura, i a Berlín, on em vaig iniciar en l’estudi de la llengua i la literatura ídixs, en què vaig aprofundir a Londres i a París. També he fet llargues estades a Atenes, Luxemburg i Valparaíso.
 
-Actualment, em dedico a la docència universitària i a la recerca en el camp de la traductologia i els estudis interculturals. Soc professor associat a la Facultat de Traducció i Interpretació de la UAB, on imparteixo assignatures de traducció alemany-català i alemany-castellà, tant general com especialitzada. També soc membre del PEN Català i formo part del seu Comitè de Drets Lingüístics.
+Actualment, em dedico a la docència universitària i a la recerca en el camp de la traductologia i els estudis interculturals. Soc professor lector a la Facultat de Traducció i Interpretació de la UAB, on imparteixo assignatures de traducció de l’alemany, tant general com especialitzada. També soc membre del PEN Català i formo part del seu Comitè de Drets Lingüístics.
