@@ -1,7 +1,7 @@
 ---
 layout: section
 title: Traducción
-picture: /images/minima00.jpg
+picture: /images/trad_web.png
 menu: true
 ---
 Me he dedicado a la traducción editorial durante más de quince años, especializándome en el campo de la literatura y las humanidades. Algunos de los escritores que he traducido son Hermann Hesse, Patrick Süskind, Siegfried Lenz, Bertha von Suttner, Hugo von Hofmannsthal, Norman Davies, W.&nbsp;G.&nbsp;Sebald, Lutz Seiler o Kim de l’Horizon. En el ámbito de la filosofía he trasladado obras de autores como Friedrich Nietzsche, Theodor W.&nbsp;Adorno, Byung-Chul Han, Günther Anders o Frédéric Gros.
