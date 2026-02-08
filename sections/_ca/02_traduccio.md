@@ -1,7 +1,7 @@
 ---
 layout: section
 title: Traducció
-picture: /images/minima00.jpg
+picture: /images/trad_web.png
 menu: true
 ---
 
