@@ -1,7 +1,7 @@
 ---
 layout: section
 title: Übersetzung
-picture: /images/minima00.jpg
+picture: /images/trad_web.png
 menu: true
 ---
 Seit mehr als fünfzehn Jahren ist Joan Ferrarons als literarischer Übersetzer tätig. Zu den Schriftstellern, die er übertragen durfte, gehören Hermann Hesse, Patrick Süskind, Siegfried Lenz, Bertha von Suttner, Hugo von Hofmannsthal, Norman Davies, W.&nbsp;G.&nbsp;Sebald, Lutz Seiler und Kim de l’Horizon. Auf dem Gebiet der Philosophie übersetzte er u.&nbsp;a. Werke von Friedrich Nietzsche, Theodor W.&nbsp;Adorno, Byung-Chul Han, Günther Anders und Frédéric Gros.
