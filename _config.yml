@@ -63,3 +63,5 @@ collections:
     output: true
   es:
     output: true
+  en:
+    output: true
