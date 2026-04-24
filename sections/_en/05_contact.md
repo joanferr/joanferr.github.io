@@ -1,6 +1,6 @@
 ---
 layout: section
-title: Contacto
+title: Contact
 picture: /images/filmo00.jpg
 menu: true
 ---
