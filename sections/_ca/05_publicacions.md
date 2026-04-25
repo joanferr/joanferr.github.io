@@ -1,7 +1,7 @@
 ---
 layout: section
 title: Publicacions
-picture: /images/filmo00.jpg
+picture: /images/type00.png
 menu: true
 ---
 A continuació trobareu una selecció de les meves publicacions més destacades.
