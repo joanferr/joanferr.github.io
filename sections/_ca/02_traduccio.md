@@ -4,9 +4,15 @@ title: Traducció
 picture: /images/trad_web.png
 menu: true
 ---
-
-Durant més de quinze anys m’he dedicat a la traducció editorial, especialitzant-me en el camp de la literatura i les humanitats. Alguns dels escriptors que he anostrat són Hermann Hesse, Patrick Süskind, Siegfried Lenz, Bertha von Suttner, Hugo von Hofmannsthal, Norman Davies, W.&nbsp;G.&nbsp;Sebald, Lutz Seiler o Kim de l’Horizon. En l’àmbit de la filosofia he traduït obres d’autors com Friedrich Nietzsche, Theodor W.&nbsp;Adorno, Byung-Chul Han, Günther Anders o Frédéric Gros.
-
-Un dels autors més destacats que he dut al català és sens dubte Franz Kafka, de qui he traduït [_Carta al pare_](https://lafinestralectora.cat/carta-al-pare/), el recull de relats [_Paràboles i paradoxes_](https://www.editorialflaneur.cat/ca/llibre/paraboles-i-paradoxes/) i [_El castell_](https://clubeditor.cat/llibres/el-castell/), que el 2020 va merèixer el V Premi de Traducció Montserrat Franquesa. L’any 2024 es va publicar la meva versió d’[_A passes cegues per la terra_](https://clubeditor.cat/llibres/a-passes-cegues-per-la-terra/) de Leib Ròkhman, la primera novel·la traduïda directament de l’ídix al català.
-
-Al catàleg [CCUC](https://ccuc.csuc.cat/discovery/search?query=creator,contains,Joan%20Ferrarons,AND&tab=TOT&search_scope=DiscoveryNetwork&sortby=date_d&vid=34CSUC_NETWORK:CSUC_CCUC_UNION&facet=rtype,include,books&lang=ca&mode=advanced&offset=0) trobareu la majoria de les meves traduccions. Si en voleu llegir ressenyes, podeu consultar la base de dades [Traces](https://traces.uab.cat/search?ln=ca&sc=1&p=Joan+Ferrarons&f=&action_search=Cerca&c=tracesref&c=tracesbib&c=videos).
+Tinc més de quinze anys d'experiència en el camp de la traducció editorial. En total he traduït una quarantena de llibres, principalment narrativa i assaig, però també  literatura infantil i obres de divulgació. Sobretot he treballat a partir de l’alemany, però també de l’ídix, l’anglès i el francès. Aquestes són algunes de les meves traduccions més destacades:
+- _Maria Stuart_ de Stefan Zweig (Segona Perifèria, 2026).
+- _El procés_ de Franz Kafka (Club Editor, 2025).
+- _Minima moralia_ de Theodor W.&nbsp;Adorno (Arcàdia, 2024).
+- _A passes cegues per la terra_ de Leib Ròkhman (Club Editor, 2023).
+- _No-coses_ de Byung-Chul Han (La Magrana, 2022).
+- _El castell_ de Franz Kafka (Club Editor, 2019), V Premi PEN Català de Traducció.
+- _Un combat_ de Patrick Süskind (Ara Llibres, 2019).
+- _La infantesa del bruixot_ de Hermann Hesse (Angle Editorial, 2017).
+- _Lliçó d’alemany_ de Siegfried Lenz (Club Editor, 2016).
+- _Abaixeu les armes!_ de Bertha von Suttner (Angle Editorial, ICIP, 2014).
+- _El naixement de la tragèdia_ de Friedrich Nietzsche (Cedres Vermells, 2014).
