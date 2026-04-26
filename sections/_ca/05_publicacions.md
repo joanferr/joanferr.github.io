@@ -4,8 +4,8 @@ title: Publicacions
 picture: /images/type00.png
 menu: true
 ---
-A continuació trobareu una selecció de les meves publicacions més destacades:
-- Comissariat de la col·lecció [_Barcelona en la Literatura Universal_](https://ajuntament.barcelona.cat/bcn-llibres/estatics/files/20255/6d136793_dossier-de-premsa-bcn-en-la-literatura-universal.pdf) (Barcelona llibres, de 2025 ençà).
+Vet aquí una selecció del meus treballs més destacats:
+- Comissariat de la col·lecció [_Barcelona en la Literatura Universal_](https://ajuntament.barcelona.cat/bcn-llibres/estatics/files/20255/6d136793_dossier-de-premsa-bcn-en-la-literatura-universal.pdf) (Barcelona Llibres, del 2025 ençà).
 - [«L’escriptura (im)mutable»](https://ddd.uab.cat/record/321601). Postfaci a _El procés_ de Franz Kafka. Barcelona: Club Editor, 2025, pàg. 325-342.
 - [«Minima moralia de Theodor W. Adorno: reflexions a tomb de la traducció de filosofia al català»](https://ddd.uab.cat/record/311398). _Visat_, 39 (primavera), 2025, pàg. 60-72.
 - [_La traducció dels noms propis: una aproximació teòrica i pràctica_](https://lafinestralectora.cat/la-traduccio-dels-noms-propis/). Vic: Eumo, 2024.
