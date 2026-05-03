@@ -1,11 +1,18 @@
 ---
 layout: section
-title: Traducción
+title: Traducció
 picture: /images/trad_web.png
 menu: true
 ---
-Me he dedicado a la traducción editorial durante más de quince años, especializándome en el campo de la literatura y las humanidades. Algunos de los escritores que he traducido son Hermann Hesse, Patrick Süskind, Siegfried Lenz, Bertha von Suttner, Hugo von Hofmannsthal, Norman Davies, W.&nbsp;G.&nbsp;Sebald, Lutz Seiler o Kim de l’Horizon. En el ámbito de la filosofía he trasladado obras de autores como Friedrich Nietzsche, Theodor W.&nbsp;Adorno, Byung-Chul Han, Günther Anders o Frédéric Gros.
-
-Uno de los autores más connotados que he vertido al catalán es sin duda Franz Kafka, de quien he traducido [_Carta al pare_](https://lafinestralectora.cat/carta-al-pare/), el volumen de relatos [_Paràboles i paradoxes_](https://www.editorialflaneur.cat/ca/llibre/paraboles-i-paradoxes/) y [_El castell_](https://clubeditor.cat/llibres/el-castell/), que en 2020 mereció el V Premio de Traducción Montserrat Franquesa. En 2024 se publicó mi versión de [_A passes cegues per la terra_](https://clubeditor.cat/llibres/a-passes-cegues-per-la-terra/) de Leib Rojman, la primera novela trasladada directamente del yidis al catalán.
-
-En el catálogo [CCUC](https://ccuc.csuc.cat/discovery/search?query=creator,contains,Joan%20Ferrarons,AND&tab=TOT&search_scope=Discov eryNetwork&sortby=date_d&vid=34CSUC_NETWORK:CSUC_CCUC_UNION&facet=rtype,include,books&lang=es&mode=advanced&offset=0) hallará la mayoría de libros que he traducido. Si desea leer reseñas de mis traducciones, puede consultar la base de datos [Traces](https://traces.uab.cat/search?ln=es&sc=1&p=Joan+Ferrarons&f=&action_search=Buscar&c=tracesref&c=tracesbib&c=videos).
+Tengo más de quince años de experiencia en el campo de la traducción editorial. En total he traducido unos cuarenta libros, principalmente narrativa y ensayo, pero también literatura infantil y obras de divulgación. Aunque sobre todo he trabajado a partir del alemán, también he traducido del yidis, el inglés y el francés. Estas son algunas de mis traducciones más destacadas:
+- _Maria Stuart_ de Stefan Zweig (Segona Perifèria, 2026).
+- _El procés_ de Franz Kafka (Club Editor, 2025).
+- _Minima moralia_ de Theodor W.&nbsp;Adorno (Arcàdia, 2024).
+- _A passes cegues per la terra_ de Leib Ròkhman (Club Editor, 2024).
+- _No-coses_ de Byung-Chul Han (La Magrana, 2022).
+- _El castell_ de Franz Kafka (Club Editor, 2019), V Premi PEN Català de Traducció.
+- _Solo un día_ de Martin Baltscheit (Vicens Vives, 2018).
+- _La infantesa del bruixot_ de Hermann Hesse (Angle Editorial, 2017).
+- _El naixement de la tragèdia_ de Friedrich Nietzsche (Cedres Vermells, 2014).
+- _Reinos desaparecidos_ de Norman Davies (Galaxia Gutenberg, 2013, con Joan Fontcuberta).
+- _Idilio con perro ahogándose_ de Michael Köhlmeier (Rayo Verde, 2012).
