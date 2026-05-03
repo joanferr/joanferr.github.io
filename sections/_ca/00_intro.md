@@ -3,4 +3,4 @@ title: ""
 menu: false
 kind: intro
 ---
-Joan Ferrarons i Llagostera és traductor literari, docent universitari i investigador en l’àmbit de la traductulogia i els estudis interculturals.
+Joan Ferrarons i Llagostera és traductor, docent i investigador en l’àmbit de la traductulogia i els estudis interculturals.
