@@ -1,6 +1,6 @@
 ---
 layout: section
-title: Traducció
+title: Traducción
 picture: /images/trad_web.png
 menu: true
 ---
@@ -8,9 +8,9 @@ Tengo más de quince años de experiencia en el campo de la traducción editoria
 - _Maria Stuart_ de Stefan Zweig (Segona Perifèria, 2026).
 - _El procés_ de Franz Kafka (Club Editor, 2025).
 - _Minima moralia_ de Theodor W.&nbsp;Adorno (Arcàdia, 2024).
-- _A passes cegues per la terra_ de Leib Ròkhman (Club Editor, 2024).
+- _A passes cegues per la terra_ de Leib Rojman (Club Editor, 2024).
 - _No-coses_ de Byung-Chul Han (La Magrana, 2022).
-- _El castell_ de Franz Kafka (Club Editor, 2019), V Premi PEN Català de Traducció.
+- _El castell_ de Franz Kafka (Club Editor, 2019), V Premio PEN Catalán de Traducción.
 - _Solo un día_ de Martin Baltscheit (Vicens Vives, 2018).
 - _La infantesa del bruixot_ de Hermann Hesse (Angle Editorial, 2017).
 - _El naixement de la tragèdia_ de Friedrich Nietzsche (Cedres Vermells, 2014).
