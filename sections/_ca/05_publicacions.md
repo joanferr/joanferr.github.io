@@ -4,7 +4,7 @@ title: Publicacions
 picture: /images/type00.png
 menu: true
 ---
-Vet aquí una selecció del meus treballs acadèmics més destacats:
+Vet aquí una selecció dels meus treballs acadèmics més destacats:
 - Comissariat de la col·lecció [_Barcelona en la Literatura Universal_](https://ajuntament.barcelona.cat/bcn-llibres/estatics/files/20255/6d136793_dossier-de-premsa-bcn-en-la-literatura-universal.pdf) (Barcelona Llibres, actualment).
 - [«L’escriptura (im)mutable»](https://ddd.uab.cat/record/321601), postfaci a _El procés_ de Kafka (Club Editor, 2025).
 - [«Minima moralia de Theodor W. Adorno: reflexions a tomb de la traducció de filosofia al català»](https://ddd.uab.cat/record/311398), _Visat_, 39 (primavera), 2025.
