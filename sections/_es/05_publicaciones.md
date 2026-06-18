@@ -1,10 +1,12 @@
 ---
 layout: section
 title: Publicaciones
-picture: /images/type00.png
+picture: /images/Kafka00.png
 menu: true
 ---
 Los siguientes son algunos de mis trabajos más destacados:
+- Anna Montané, Heidi Grünewald y Loreto Vilar (ed.): [_Kafka en transformación: poética y recepción en los
+contextos español, catalán e hispanoamericano_](https://www.documentauniversitaria.media/omp/index.php/du/catalog/book/378) (Documenta Universitaria, 2026).
 - Comisariado de la colección [_Barcelona en la Literatura Universal_](https://ajuntament.barcelona.cat/bcn-llibres/estatics/files/20255/6d136793_dossier-de-premsa-bcn-en-la-literatura-universal.pdf) (Barcelona Llibres, actualmente).
 - [«L’escriptura (im)mutable»](https://ddd.uab.cat/record/321601), epílogo a _El procés_ de Kafka (Club Editor, 2025).
 - [«Minima moralia de Theodor W. Adorno: reflexions a tomb de la traducció de filosofia al català»](https://ddd.uab.cat/record/311398), _Visat_, 39 (primavera), 2025.
