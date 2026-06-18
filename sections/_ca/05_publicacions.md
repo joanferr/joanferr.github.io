@@ -1,7 +1,7 @@
 ---
 layout: section
 title: Publicacions
-picture: /images/type00.png
+picture: /images/Kafka00.png
 menu: true
 ---
 Vet aquí una selecció dels meus treballs acadèmics més destacats:
