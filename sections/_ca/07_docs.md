@@ -2,7 +2,7 @@
 layout: section
 title: Documents
 picture: 
-menu: true
+menu: false
 ---
 
 - [Document de prova](/docs/PDF_prova.pdf).
