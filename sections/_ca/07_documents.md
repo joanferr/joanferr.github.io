@@ -1,7 +1,7 @@
 ---
 layout: section
 title: Documents
-picture: type00.png
+picture: /images/type00.png
 menu: false
 ---
 
