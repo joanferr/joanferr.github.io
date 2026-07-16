@@ -1,7 +1,7 @@
 ---
 layout: section
-title:
-picture:
+title: Documents
+picture: /images/type00.png
 menu: true
 ---
 **Fes d’errates**
